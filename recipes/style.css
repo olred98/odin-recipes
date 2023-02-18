@@ -1,0 +1,18 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    float: right;
+    display: inline;}
+
+h1 {text-align: center;}
+h2 {text-align: center;}
+h4 {text-align: center;}
+
+button {
+    background-color: rgb(238, 149, 77); 
+    padding: 5px;
+    border-radius: 10px;
+    font-weight: bold;
+    }
