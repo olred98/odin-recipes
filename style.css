@@ -20,17 +20,17 @@ html, body {
     }
     
   a {
-color: black
+color: black;
 }
 
 a:visited {
-color: white
+color: white;
 }
 
 a:hover {
-color: white
+color: white;
 }
 
 a:active {
-color: grey
+color: grey;
 }
