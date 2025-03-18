@@ -16,3 +16,19 @@ button {
     border-radius: 10px;
     font-weight: bold;
     }
+
+    a {
+color: black;
+}
+
+a:visited {
+color: white;
+}
+
+a:hover {
+color: white;
+}
+
+a:active {
+color: grey;
+}
